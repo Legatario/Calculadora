@@ -4,8 +4,8 @@ Projeto de uma calculadora simples
 
 # Linguagens
 
-HTML 
-CSS
+HTML, 
+CSS,
 JavaScript
 
 # Desenvolvedor
